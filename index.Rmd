@@ -1,5 +1,5 @@
 --- 
-title: "PROTECTO DE SERIES DE TIEMPO"
+title: "PROYECTO DE SERIES DE TIEMPO"
 author: "JOHN WILMAR VARGAS MENDEZ"
 date: ""
 site: bookdown::bookdown_site
@@ -14,4 +14,4 @@ description: "This is a minimal example of using the bookdown package to write a
 
 # PRIMERA ENTREGA
 
-SE BUSCA
+SE BUSCA UNA BASE DE DATOS QUE CUMPLA CON LAS CONDICIONES DEL CURSO 
